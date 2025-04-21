@@ -5,12 +5,7 @@ Let’s say you want to predict something (like price, weight, or sales) based o
 
 The relationship is often written as:
 
-𝑦
-=
-𝑎
-+
-𝑏
-𝑥
+
 y=a+bx
 Where:
 
